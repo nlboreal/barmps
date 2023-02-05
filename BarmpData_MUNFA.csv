@@ -1,0 +1,7 @@
+Date,Month,Shift,Location,LocationShift,duration_min,barmps,waves,birds,other,noReaction,TotalCars,pct,barmpsPerMinute,notes
+2,Feb,1,Allendale,Allendale1,60,209,70,2,,,,,3.5,
+2,Feb,2,Allendale,Allendale2,60,475,62,0,1,,,,7.9,enthusiastic revving
+2,Feb,2,A&Aexit,A&Aexit2,135,817,1,0,,,1015,80,6.1,took car counts in 10 min sampling (see other sheet) 
+2,Feb,1,PPhillipMorrisy,PPhillipMorrisy1,4,184,`,1,,,,,46.0,two folks sampling; one counted 183 barmps; the other 185; did not count waves
+2,Feb,2,A&Aentrance,A&Aentrance2,20,91,0,0,,59,150,61,4.6,
+2,Feb,1,A&Aentrance,A&Aentrance1,30,75,,0,,,,,2.5,sampled in three 10-minute intervals 
